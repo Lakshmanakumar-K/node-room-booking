@@ -1,5 +1,5 @@
-1. To create a room - http://localhost:4500/rooms , method -get
-2. To book a room - http://localhost:4500/bookings , method - post
-3. To list all rooms with booked data - http://localhost:4500/bookings, method - get
-4. To list all customers with booked data - http://localhost:4500/customers/, method - get
-5. To list how many times a customer has booked and details - http://localhost:4500/customers/:id, method - get
+1. To create a room - https://node-room-booking.onrender.com/rooms , method -get
+2. To book a room - https://node-room-booking.onrender.com/bookings , method - post
+3. To list all rooms with booked data - https://node-room-booking.onrender.com/bookings, method - get
+4. To list all customers with booked data - https://node-room-booking.onrender.com/customers, method - get
+5. To list how many times a customer has booked and details - https://node-room-booking.onrender.com/customers/:id, method - get
