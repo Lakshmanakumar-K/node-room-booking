@@ -1,0 +1,16 @@
+{
+  "name": "node_room_booking",
+  "version": "1.0.0",
+  "description": "Creating APIs for room booking",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
